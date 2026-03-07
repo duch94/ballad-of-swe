@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>До истории про программиста</title>
+    <meta
+      name="description"
+      content="Шуточно-праздничный отсчет до 1500-го выпуска Радио-Т, где пора напомнить про историю про программиста."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bitter:wght@500;700;800&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-phase="loading">
+    <canvas class="fireworks" id="fireworks" aria-hidden="true"></canvas>
+    <div class="backdrop" aria-hidden="true">
+      <div class="ray ray-a"></div>
+      <div class="ray ray-b"></div>
+      <div class="garland garland-a"></div>
+      <div class="garland garland-b"></div>
+      <div class="confetti confetti-a"></div>
+      <div class="confetti confetti-b"></div>
+      <div class="spotlight spotlight-left"></div>
+      <div class="spotlight spotlight-right"></div>
+    </div>
+
+    <main class="page-shell">
+      <section class="hero-card">
+        <p class="eyebrow" id="phase-label">Народный отсчет ведется</p>
+        <h1 id="hero-title">До великого напоминания осталось</h1>
+        <p class="lead" id="hero-subtitle">
+          История про программиста держится в эфирной памяти и уверенно движется к выпуску 1500.
+        </p>
+
+        <div class="countdown" aria-label="Таймер до 1500 выпуска">
+          <article class="countdown-cell">
+            <span class="countdown-value" id="days">0000</span>
+            <span class="countdown-label">дней</span>
+          </article>
+          <article class="countdown-cell">
+            <span class="countdown-value" id="hours">00</span>
+            <span class="countdown-label">часов</span>
+          </article>
+          <article class="countdown-cell">
+            <span class="countdown-value" id="minutes">00</span>
+            <span class="countdown-label">минут</span>
+          </article>
+          <article class="countdown-cell">
+            <span class="countdown-value" id="seconds">00</span>
+            <span class="countdown-label">секунд</span>
+          </article>
+        </div>
+
+        <div class="status-strip" id="status-strip">
+          <div>
+            <span class="meta-label">Текущий выпуск</span>
+            <strong id="current-episode">—</strong>
+          </div>
+          <div>
+            <span class="meta-label">До 1500-го</span>
+            <strong id="episodes-left">—</strong>
+          </div>
+          <div>
+            <span class="meta-label">Час истины</span>
+            <strong id="target-date">—</strong>
+          </div>
+        </div>
+
+        <div class="cta-zone" id="cta-zone">
+          <button class="reminder-trigger" id="open-reminder" type="button">
+            Открыть напоминание
+          </button>
+          <p class="copy-feedback" id="copy-feedback" aria-live="polite"></p>
+          <a class="chat-link" href="https://t.me/radio_t_chat" target="_blank" rel="noreferrer">
+            Обсудить в чате: @radio_t_chat
+          </a>
+        </div>
+
+        <section class="poster-note">
+          <p id="poster-slogan">Товарищи слушатели, подготовка к историческому напоминанию идет по графику.</p>
+          <p class="smallprint" id="data-note">
+            Расчет основан на RSS Радио-Т и гипотезе, что выпуски идут каждую субботу в 20:00 UTC без пропусков.
+          </p>
+          <p class="smallprint footer-linkline">
+            Сайт подкаста выходного дня Радио-Т
+            <a href="https://radio-t.com/" target="_blank" rel="noreferrer">https://radio-t.com/</a>
+          </p>
+        </section>
+      </section>
+
+    </main>
+
+    <div class="modal" id="reminder-modal" hidden>
+      <div class="modal-backdrop" id="modal-backdrop"></div>
+      <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+        <button class="modal-close" id="close-reminder" type="button" aria-label="Закрыть окно">
+          <span aria-hidden="true">×</span>
+        </button>
+        <p class="eyebrow modal-eyebrow">Текст напоминания</p>
+        <h2 id="modal-title">Сообщение для эфира</h2>
+        <div class="reminder-panel" id="reminder-panel">
+          <div class="reminder-text" id="reminder-text" aria-live="polite"></div>
+          <button class="reminder-button" id="copy-button" type="button" aria-label="Скопировать напоминание">
+            <span class="copy-icon" aria-hidden="true"></span>
+            <span class="copy-label" id="copy-label">Скопировать</span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
