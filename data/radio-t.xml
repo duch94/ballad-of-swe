@@ -18,6 +18,48 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1003</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+01:00:39 <a href="https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/">Apple показали обновленный MacBook Air с M5</a><br>
+01:05:07 <a href="https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/">Свежий MacBook Pro, но очень дорого</a><br>
+01:09:09 <a href="https://www.apple.com/macbook-neo/">MacBook Neo</a><br>
+01:23:30 <a href="https://www.glazeapp.com/">Raycast тоже занесло в AI слоп</a><br>
+01:31:06 <a href="https://openai.com/index/introducing-gpt-5-4/">Выход GPT-5.4</a><br>
+01:40:49 <a href="https://pxlnv.com/blog/window-chrome-of-our-discontent/">Все не так с Chrome</a><br>
+01:49:11 <a href="https://radio-t.com/p/2026/03/03/prep-1003/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1003.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1003.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1003.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1003.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/03/07/podcast-1003/</link>
+		<guid>https://radio-t.com/p/2026/03/07//podcast-1003/</guid>
+		<pubDate>Sat, 07 Mar 2026 16:39:59 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1003.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/">Apple показали обновленный MacBook Air с M5</a> - <em>01:00:39</em>.</li>
+<li><a href="https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/">Свежий MacBook Pro, но очень дорого</a> - <em>01:05:07</em>.</li>
+<li><a href="https://www.apple.com/macbook-neo/">MacBook Neo</a> - <em>01:09:09</em>.</li>
+<li><a href="https://www.glazeapp.com/">Raycast тоже занесло в AI слоп</a> - <em>01:23:30</em>.</li>
+<li><a href="https://openai.com/index/introducing-gpt-5-4/">Выход GPT-5.4</a> - <em>01:31:06</em>.</li>
+<li><a href="https://pxlnv.com/blog/window-chrome-of-our-discontent/">Все не так с Chrome</a> - <em>01:40:49</em>.</li>
+<li><a href="https://radio-t.com/p/2026/03/03/prep-1003/">Темы слушателей</a> - <em>01:49:11</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1003.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1003.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1003.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1003.jpg"/>
+		<enclosure length="125859382" type="audio/mp3" url="http://cdn.radio-t.com/rt_podcast1003.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. Apple показали обновленный MacBook Air с M5 - 01:00:39. Свежий MacBook Pro, но очень дорого - 01:05:07. MacBook Neo - 01:09:09. Raycast тоже занесло в AI слоп - 01:23:30. Выход GPT-5.4 - 01:31:06. Все не так с Chrome ...</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1002</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 00:22:57 <a href="https://shkspr.mobi/blog/2026/02/this-time-is-different/">На этот раз это другое</a><br>
@@ -813,50 +855,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. Вайб-кодеры против специалистов - 00:27:09. Как падал AWS - 00:47:23. ChatGPT Atlas - 01:51:12. Темы слушателей - 02:08:48.</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 983</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:21:19 <a href="https://www.anthropic.com/news/claude-haiku-4-5">Неожиданно достойная модель - Claude Haiku 4.5</a><br>
-00:31:49 <a href="https://www.anthropic.com/news/skills">Выход Claude Skills</a><br>
-00:42:41 <a href="https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/">Apple M5: уже в новых устройствах</a><br>
-00:55:43 <a href="https://www.macrumors.com/2025/10/16/macbook-pro-oled-touch-screen/">Слухи о выходе MacBook Pro с Touch Screen</a><br>
-01:19:57 <a href="https://zed.dev/blog/codex-is-live-in-zed">Codex появился в Zed</a><br>
-01:33:29 <a href="https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html">Программисты против AI</a><br>
-02:10:27 <a href="https://arstechnica.com/gadgets/2025/10/windows-10-support-ends-today-but-its-just-the-first-of-many-deaths/">Windows 10 официально закончился</a><br>
-02:16:17 <a href="https://radio-t.com/p/2025/10/14/prep-983/">Темы слушателей</a>
-<p><img src="https://radio-t.com/images/radio-t/rt983.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast983.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-983.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast983.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2025/10/18/podcast-983/</link>
-		<guid>https://radio-t.com/p/2025/10/18//podcast-983/</guid>
-		<pubDate>Sat, 18 Oct 2025 18:46:51 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt983.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li><a href="https://www.anthropic.com/news/claude-haiku-4-5">Неожиданно достойная модель - Claude Haiku 4.5</a> - <em>00:21:19</em>.</li>
-<li><a href="https://www.anthropic.com/news/skills">Выход Claude Skills</a> - <em>00:31:49</em>.</li>
-<li><a href="https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/">Apple M5: уже в новых устройствах</a> - <em>00:42:41</em>.</li>
-<li><a href="https://www.macrumors.com/2025/10/16/macbook-pro-oled-touch-screen/">Слухи о выходе MacBook Pro с Touch Screen</a> - <em>00:55:43</em>.</li>
-<li><a href="https://zed.dev/blog/codex-is-live-in-zed">Codex появился в Zed</a> - <em>01:19:57</em>.</li>
-<li><a href="https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html">Программисты против AI</a> - <em>01:33:29</em>.</li>
-<li><a href="https://arstechnica.com/gadgets/2025/10/windows-10-support-ends-today-but-its-just-the-first-of-many-deaths/">Windows 10 официально закончился</a> - <em>02:10:27</em>.</li>
-<li><a href="https://radio-t.com/p/2025/10/14/prep-983/">Темы слушателей</a> - <em>02:16:17</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast983.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-983.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast983.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt983.jpg"/>
-		<enclosure length="171331820" type="audio/mp3" url="http://cdn.radio-t.com/rt_podcast983.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Неожиданно достойная модель - Claude Haiku 4.5 - 00:21:19. Выход Claude Skills - 00:31:49. Apple M5: уже в новых устройствах - 00:42:41. Слухи о выходе MacBook Pro с Touch Screen - 00:55:43. Codex появился в Zed - 01:...</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
