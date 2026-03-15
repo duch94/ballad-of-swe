@@ -18,6 +18,50 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1004</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+00:23:37 <a href="https://claude.com/blog/1m-context-ga">Праздник одного миллиона для Opus и Sonnet</a><br>
+00:49:24 <a href="https://github.blog/changelog/2026-02-25-github-copilot-cli-is-now-generally-available/">GitHub Copilot CLI доступен</a><br>
+01:07:36 <a href="https://digg.com">Digg закрылся во второй раз</a><br>
+01:17:36 <a href="https://ghostty.org/docs/install/release-notes/1-3-0">Долгожданный релиз Ghostty 1.3</a><br>
+01:29:21 <a href="https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion">Claude раздает много и бесплатно</a><br>
+01:34:32 <a href="https://developers.openai.com/codex/community/codex-for-oss/">Codex решили присоединится, но получилось не очень</a><br>
+01:38:38 <a href="https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/">Browser Rendering от cloudflare для полного выкачивания</a><br>
+01:47:57 <a href="https://radio-t.com/p/2026/03/10/prep-1004/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1004.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1004.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1004.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1004.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/03/14/podcast-1004/</link>
+		<guid>https://radio-t.com/p/2026/03/14//podcast-1004/</guid>
+		<pubDate>Sat, 14 Mar 2026 17:52:55 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1004.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://claude.com/blog/1m-context-ga">Праздник одного миллиона для Opus и Sonnet</a> - <em>00:23:37</em>.</li>
+<li><a href="https://github.blog/changelog/2026-02-25-github-copilot-cli-is-now-generally-available/">GitHub Copilot CLI доступен</a> - <em>00:49:24</em>.</li>
+<li><a href="https://digg.com">Digg закрылся во второй раз</a> - <em>01:07:36</em>.</li>
+<li><a href="https://ghostty.org/docs/install/release-notes/1-3-0">Долгожданный релиз Ghostty 1.3</a> - <em>01:17:36</em>.</li>
+<li><a href="https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion">Claude раздает много и бесплатно</a> - <em>01:29:21</em>.</li>
+<li><a href="https://developers.openai.com/codex/community/codex-for-oss/">Codex решили присоединится, но получилось не очень</a> - <em>01:34:32</em>.</li>
+<li><a href="https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/">Browser Rendering от cloudflare для полного выкачивания</a> - <em>01:38:38</em>.</li>
+<li><a href="https://radio-t.com/p/2026/03/10/prep-1004/">Темы слушателей</a> - <em>01:47:57</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1004.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1004.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1004.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1004.jpg"/>
+		<enclosure length="136870343" type="audio/mp3" url="http://cdn.radio-t.com/rt_podcast1004.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. Праздник одного миллиона для Opus и Sonnet - 00:23:37. GitHub Copilot CLI доступен - 00:49:24. Digg закрылся во второй раз - 01:07:36. Долгожданный релиз Ghostty 1.3 - 01:17:36. Claude раздает много и бесплатно - 01:2...</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1003</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 01:00:39 <a href="https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/">Apple показали обновленный MacBook Air с M5</a><br>
@@ -819,42 +863,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. Выход нового Cursor 2.0 и модели Composer - 00:18:40. Шум вокруг нового агента goose - 00:32:25. OpenAI и проблема самоубийств - 00:38:49. Хорошо переписали с Go ... на Go - 01:04:26. Релизы и теги на GitHub могут быт...</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 984</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:27:09 <a href="https://www.ivan.codes/thoughts/technical-experts-have-zero-customers">Вайб-кодеры против специалистов</a><br>
-00:47:23 <a href="https://aws.amazon.com/message/101925/">Как падал AWS</a><br>
-01:51:12 <a href="https://openai.com/index/introducing-chatgpt-atlas/">ChatGPT Atlas</a><br>
-02:08:48 <a href="https://radio-t.com/p/2025/10/22/prep-984/">Темы слушателей</a>
-<p><img src="https://radio-t.com/images/radio-t/rt984.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast984.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-984.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast984.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2025/10/25/podcast-984/</link>
-		<guid>https://radio-t.com/p/2025/10/25//podcast-984/</guid>
-		<pubDate>Sat, 25 Oct 2025 17:55:48 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt984.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li><a href="https://www.ivan.codes/thoughts/technical-experts-have-zero-customers">Вайб-кодеры против специалистов</a> - <em>00:27:09</em>.</li>
-<li><a href="https://aws.amazon.com/message/101925/">Как падал AWS</a> - <em>00:47:23</em>.</li>
-<li><a href="https://openai.com/index/introducing-chatgpt-atlas/">ChatGPT Atlas</a> - <em>01:51:12</em>.</li>
-<li><a href="https://radio-t.com/p/2025/10/22/prep-984/">Темы слушателей</a> - <em>02:08:48</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast984.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-984.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast984.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt984.jpg"/>
-		<enclosure length="145330215" type="audio/mp3" url="http://cdn.radio-t.com/rt_podcast984.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Вайб-кодеры против специалистов - 00:27:09. Как падал AWS - 00:47:23. ChatGPT Atlas - 01:51:12. Темы слушателей - 02:08:48.</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
