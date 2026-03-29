@@ -18,6 +18,48 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1006</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+00:22:16 <a href="https://www.techradar.com/ai-platforms-assistants/claude/claude-is-limiting-usage-more-aggressively-during-peak-hours-heres-what-changed">Claude урезали пяти-часовые сессии</a><br>
+00:32:53 <a href="https://lara-aigmueller.at/thoughts/leaving-the-ai-party/">Откровения лудитки в эпоху AI</a><br>
+01:06:14 <a href="https://linear.app/next">Linear объявил о конце тикет трекеров</a><br>
+01:22:06 <a href="https://andregarzia.com/2026/03/apple-just-lost-me.html">Уход от Apple</a><br>
+01:40:41 <a href="https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html">Где все гениальные приложения эпохи AI?</a><br>
+01:58:01 <a href="https://fpgmaas.com/blog/collapse-of-mkdocs/">Драма вокруг MkDocs</a><br>
+02:07:13 <a href="https://radio-t.com/p/2026/03/24/prep-1006/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1006.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1006.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1006.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1006.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/03/28/podcast-1006/</link>
+		<guid>https://radio-t.com/p/2026/03/28//podcast-1006/</guid>
+		<pubDate>Sat, 28 Mar 2026 18:03:36 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1006.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://www.techradar.com/ai-platforms-assistants/claude/claude-is-limiting-usage-more-aggressively-during-peak-hours-heres-what-changed">Claude урезали пяти-часовые сессии</a> - <em>00:22:16</em>.</li>
+<li><a href="https://lara-aigmueller.at/thoughts/leaving-the-ai-party/">Откровения лудитки в эпоху AI</a> - <em>00:32:53</em>.</li>
+<li><a href="https://linear.app/next">Linear объявил о конце тикет трекеров</a> - <em>01:06:14</em>.</li>
+<li><a href="https://andregarzia.com/2026/03/apple-just-lost-me.html">Уход от Apple</a> - <em>01:22:06</em>.</li>
+<li><a href="https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html">Где все гениальные приложения эпохи AI?</a> - <em>01:40:41</em>.</li>
+<li><a href="https://fpgmaas.com/blog/collapse-of-mkdocs/">Драма вокруг MkDocs</a> - <em>01:58:01</em>.</li>
+<li><a href="https://radio-t.com/p/2026/03/24/prep-1006/">Темы слушателей</a> - <em>02:07:13</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1006.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1006.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1006.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1006.jpg"/>
+		<enclosure length="146303092" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1006.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. Claude урезали пяти-часовые сессии - 00:22:16. Откровения лудитки в эпоху AI - 00:32:53. Linear объявил о конце тикет трекеров - 01:06:14. Уход от Apple - 01:22:06. Где все гениальные приложения эпохи AI? - 01:40:41. ...</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1005</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 00:23:46 <a href="https://code.claude.com/docs/en/channels">В Claude Code завезли каналы</a><br>
@@ -817,46 +859,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. Go стукнуло 16 - 00:19:07. Beads: интересная память для агентов - 00:48:43. sudo-rs потому-что все лучше с растом - 00:58:54. Valve показали новую консоль и прочие радости - 01:09:01. GPT-5.1 для всех - 01:16:33. 1Pas...</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 986</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:26:16 <a href="https://www.bloomberg.com/news/articles/2025-11-04/apple-readies-a-low-cost-laptop-to-rival-chromebooks-and-windows-pcs?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2MjI3NTgwOSwiZXhwIjoxNzYyODgwNjA5LCJhcnRpY2xlSWQiOiJUNTBIQk9HUFFRODgwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.wYhxdh3k7Sb12pXdc9adUN8L3brLP_M5SgcilqUi6cc&sref=51oIW18F">Apple готовит очень дешевые лаптопы</a><br>
-00:39:00 <a href="https://devansh.bearblog.dev/ai-slop/">AI Slop против OSS Security</a><br>
-00:59:12 <a href="https://www.macstories.net/news/apple-releases-26-1-updates-to-its-operating-systems/">Выход 26.1</a><br>
-01:27:49 <a href="https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/">2 миллиарда адресов утекли</a><br>
-01:40:08 <a href="https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/">Dunning-Kruger посредством AI</a><br>
-01:57:28 <a href="https://radio-t.com/p/2025/11/04/prep-986/">Темы слушателей</a>
-<p><img src="https://radio-t.com/images/radio-t/rt986.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast986.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-986.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast986.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2025/11/08/podcast-986/</link>
-		<guid>https://radio-t.com/p/2025/11/08//podcast-986/</guid>
-		<pubDate>Sat, 08 Nov 2025 17:20:04 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt986.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li><a href="https://www.bloomberg.com/news/articles/2025-11-04/apple-readies-a-low-cost-laptop-to-rival-chromebooks-and-windows-pcs?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2MjI3NTgwOSwiZXhwIjoxNzYyODgwNjA5LCJhcnRpY2xlSWQiOiJUNTBIQk9HUFFRODgwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.wYhxdh3k7Sb12pXdc9adUN8L3brLP_M5SgcilqUi6cc&amp;sref=51oIW18F">Apple готовит очень дешевые лаптопы</a> - <em>00:26:16</em>.</li>
-<li><a href="https://devansh.bearblog.dev/ai-slop/">AI Slop против OSS Security</a> - <em>00:39:00</em>.</li>
-<li><a href="https://www.macstories.net/news/apple-releases-26-1-updates-to-its-operating-systems/">Выход 26.1</a> - <em>00:59:12</em>.</li>
-<li><a href="https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/">2 миллиарда адресов утекли</a> - <em>01:27:49</em>.</li>
-<li><a href="https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/">Dunning-Kruger посредством AI</a> - <em>01:40:08</em>.</li>
-<li><a href="https://radio-t.com/p/2025/11/04/prep-986/">Темы слушателей</a> - <em>01:57:28</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast986.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-986.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast986.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt986.jpg"/>
-		<enclosure length="163443036" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast986.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Apple готовит очень дешевые лаптопы - 00:26:16. AI Slop против OSS Security - 00:39:00. Выход 26.1 - 00:59:12. 2 миллиарда адресов утекли - 01:27:49. Dunning-Kruger посредством AI - 01:40:08. Темы слушателей - 01:57:2...</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
