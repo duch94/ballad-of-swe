@@ -18,6 +18,48 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1008</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+00:27:21 <a href="https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane">Безумный культ вибрационного программирования</a><br>
+00:45:05 <a href="https://www.telegraph.co.uk/business/2026/04/10/bank-of-england-raises-alarm-over-threat-from-ai-too-danger/">Bank of England подливает масла в огонь страхов</a><br>
+00:55:32 <a href="https://deepmind.google/models/gemma/gemma-4/">Gemma 4</a><br>
+01:02:43 <a href="https://github.com/JuliusBrussee/caveman/blob/main/README.md">caveman решает проблему токенов</a><br>
+01:13:28 <a href="https://blog.gitbutler.com/series-a">Новый, лучший гит уже на подходе</a><br>
+01:24:46 <a href="https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/">Anthropic подтвердил проблему перерасхода лимитов в Claude Code</a><br>
+01:47:53 <a href="https://radio-t.com/p/2026/04/07/prep-1008/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1008.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1008.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1008.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1008.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/04/11/podcast-1008/</link>
+		<guid>https://radio-t.com/p/2026/04/11//podcast-1008/</guid>
+		<pubDate>Sat, 11 Apr 2026 17:49:26 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1008.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane">Безумный культ вибрационного программирования</a> - <em>00:27:21</em>.</li>
+<li><a href="https://www.telegraph.co.uk/business/2026/04/10/bank-of-england-raises-alarm-over-threat-from-ai-too-danger/">Bank of England подливает масла в огонь страхов</a> - <em>00:45:05</em>.</li>
+<li><a href="https://deepmind.google/models/gemma/gemma-4/">Gemma 4</a> - <em>00:55:32</em>.</li>
+<li><a href="https://github.com/JuliusBrussee/caveman/blob/main/README.md">caveman решает проблему токенов</a> - <em>01:02:43</em>.</li>
+<li><a href="https://blog.gitbutler.com/series-a">Новый, лучший гит уже на подходе</a> - <em>01:13:28</em>.</li>
+<li><a href="https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/">Anthropic подтвердил проблему перерасхода лимитов в Claude Code</a> - <em>01:24:46</em>.</li>
+<li><a href="https://radio-t.com/p/2026/04/07/prep-1008/">Темы слушателей</a> - <em>01:47:53</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1008.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1008.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1008.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1008.jpg"/>
+		<enclosure length="132851997" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1008.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. Безумный культ вибрационного программирования - 00:27:21. Bank of England подливает масла в огонь страхов - 00:45:05. Gemma 4 - 00:55:32. caveman решает проблему токенов - 01:02:43. Новый, лучший гит уже на подходе - ...</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1007</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 00:20:58 <a href="https://www.tomshardware.com/software/microsoft-office/artemis-ii-astronaut-finds-two-outlook-instances-running-on-computers-call-on-houston-to-fix-microsoft-anomaly-puzzled-caller-describes-two-outlooks-and-neither-one-of-those-are-working">Artemis II потерял два Outlook, миссия под угрозой</a><br>
@@ -817,46 +859,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. Claude Opus 4.5 хорош - 00:18:50. Reddit перешли с Python на Go и все стало лучше - 00:52:38. Обрастание проекта на одном примере - 01:01:59. Почему компании производят плохой код - 01:22:05. Kineto от JetBrains, тоже...</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 988</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:30:03 <a href="https://blog.cloudflare.com/18-november-2025-outage/">Cloudflare сильно упал</a><br>
-00:57:39 <a href="https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes">Европа откатывает самые дикие части GDPR</a><br>
-01:13:17 <a href="https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/">Digital ID в телефонах Apple</a><br>
-01:21:57 <a href="https://blog.google/products/gemini/gemini-3/">Выход Gemini 3</a><br>
-01:37:52 <a href="https://theaxolot.wordpress.com/2025/11/18/dont-refactor-like-uncle-bob-second-edition/">Странный случай рефакторинга</a><br>
-01:59:17 <a href="https://radio-t.com/p/2025/11/18/prep-988/">Темы слушателей</a>
-<p><img src="https://radio-t.com/images/radio-t/rt988.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast988.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-988.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast988.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2025/11/22/podcast-988/</link>
-		<guid>https://radio-t.com/p/2025/11/22//podcast-988/</guid>
-		<pubDate>Sat, 22 Nov 2025 17:10:22 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt988.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li><a href="https://blog.cloudflare.com/18-november-2025-outage/">Cloudflare сильно упал</a> - <em>00:30:03</em>.</li>
-<li><a href="https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes">Европа откатывает самые дикие части GDPR</a> - <em>00:57:39</em>.</li>
-<li><a href="https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/">Digital ID в телефонах Apple</a> - <em>01:13:17</em>.</li>
-<li><a href="https://blog.google/products/gemini/gemini-3/">Выход Gemini 3</a> - <em>01:21:57</em>.</li>
-<li><a href="https://theaxolot.wordpress.com/2025/11/18/dont-refactor-like-uncle-bob-second-edition/">Странный случай рефакторинга</a> - <em>01:37:52</em>.</li>
-<li><a href="https://radio-t.com/p/2025/11/18/prep-988/">Темы слушателей</a> - <em>01:59:17</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast988.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-988.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast988.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt988.jpg"/>
-		<enclosure length="146222716" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast988.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Cloudflare сильно упал - 00:30:03. Европа откатывает самые дикие части GDPR - 00:57:39. Digital ID в телефонах Apple - 01:13:17. Выход Gemini 3 - 01:21:57. Странный случай рефакторинга - 01:37:52. Темы слушателей - 01...</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
