@@ -18,6 +18,50 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1011</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+00:32:51 <a href="https://mitchellh.com/writing/ghostty-leaving-github">Ghostty уходит с GitHub</a><br>
+00:49:21 <a href="https://github.blog/news-insights/company-news/an-update-on-github-availability/">Проблемы с доступностью GitHub</a><br>
+01:06:51 <a href="https://matduggan.com/if-i-could-make-my-own-github/">Как сделать правильный GitHub</a><br>
+01:22:02 <a href="https://simonwillison.net/2026/Apr/30/zig-anti-ai/">Zig как последний бастион без AI</a><br>
+01:39:57 <a href="https://copy.fail/">Copy Fail</a><br>
+01:53:28 <a href="https://aws.amazon.com/bedrock/openai/">OpenAI пришли на Amazon Bedrock</a><br>
+02:00:21 <a href="https://zed.dev/blog/zed-1-0">Zed теперь 1.0</a><br>
+02:06:06 <a href="https://radio-t.com/p/2026/04/29/prep-1011/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1011.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1011.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1011.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1011.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/05/02/podcast-1011/</link>
+		<guid>https://radio-t.com/p/2026/05/02//podcast-1011/</guid>
+		<pubDate>Sat, 02 May 2026 18:07:14 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1011.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://mitchellh.com/writing/ghostty-leaving-github">Ghostty уходит с GitHub</a> - <em>00:32:51</em>.</li>
+<li><a href="https://github.blog/news-insights/company-news/an-update-on-github-availability/">Проблемы с доступностью GitHub</a> - <em>00:49:21</em>.</li>
+<li><a href="https://matduggan.com/if-i-could-make-my-own-github/">Как сделать правильный GitHub</a> - <em>01:06:51</em>.</li>
+<li><a href="https://simonwillison.net/2026/Apr/30/zig-anti-ai/">Zig как последний бастион без AI</a> - <em>01:22:02</em>.</li>
+<li><a href="https://copy.fail/">Copy Fail</a> - <em>01:39:57</em>.</li>
+<li><a href="https://aws.amazon.com/bedrock/openai/">OpenAI пришли на Amazon Bedrock</a> - <em>01:53:28</em>.</li>
+<li><a href="https://zed.dev/blog/zed-1-0">Zed теперь 1.0</a> - <em>02:00:21</em>.</li>
+<li><a href="https://radio-t.com/p/2026/04/29/prep-1011/">Темы слушателей</a> - <em>02:06:06</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1011.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1011.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1011.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1011.jpg"/>
+		<enclosure length="126908122" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1011.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. Ghostty уходит с GitHub - 00:32:51. Проблемы с доступностью GitHub - 00:49:21. Как сделать правильный GitHub - 01:06:51. Zig как последний бастион без AI - 01:22:02. Copy Fail - 01:39:57. OpenAI пришли на Amazon Bedro...</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1010</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 00:15:00 Проблема тестов в эпоху AI агентов<br>
@@ -811,50 +855,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. Скандал вокруг GitHub Actions - 00:11:29. Firefox хочет стать браузером с AI - 00:34:02. Выход Gemini 3 Flash - 00:45:49. GPT-5.2-Codex уже сдесь - 00:52:09. Шпион проник в Amazon - 01:04:38. Agent Skills и для OpenAI...</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 991</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:37:58 <a href="https://stephenramsay.net/posts/vibe-coding.html">Использование C для вайб кодинга</a><br>
-00:50:13 <a href="https://hypirion.com/musings/use-python-for-scripting">Использование питона для скриптов</a><br>
-01:06:21 <a href="https://entropicthoughts.com/deprecate-like-you-mean-it">Как правильно депрекейтить</a><br>
-01:16:01 <a href="https://eblog.fly.dev/ginbad.html">Gin это какой-то позор</a><br>
-01:25:32 <a href="https://openai.com/index/introducing-gpt-5-2/">Выход GPT-5.2</a><br>
-01:31:37 <a href="https://simonwillison.net/2025/Dec/12/openai-skills/">OpenAI незаметно добавили skills</a><br>
-01:41:57 <a href="https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/">Fleet ожидаемо не полетел</a><br>
-02:04:34 <a href="https://radio-t.com/p/2025/12/10/prep-991/">Темы слушателей</a>
-<p><img src="https://radio-t.com/images/radio-t/rt991.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast991.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-991.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast991.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2025/12/13/podcast-991/</link>
-		<guid>https://radio-t.com/p/2025/12/13//podcast-991/</guid>
-		<pubDate>Sat, 13 Dec 2025 16:52:24 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt991.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li><a href="https://stephenramsay.net/posts/vibe-coding.html">Использование C для вайб кодинга</a> - <em>00:37:58</em>.</li>
-<li><a href="https://hypirion.com/musings/use-python-for-scripting">Использование питона для скриптов</a> - <em>00:50:13</em>.</li>
-<li><a href="https://entropicthoughts.com/deprecate-like-you-mean-it">Как правильно депрекейтить</a> - <em>01:06:21</em>.</li>
-<li><a href="https://eblog.fly.dev/ginbad.html">Gin это какой-то позор</a> - <em>01:16:01</em>.</li>
-<li><a href="https://openai.com/index/introducing-gpt-5-2/">Выход GPT-5.2</a> - <em>01:25:32</em>.</li>
-<li><a href="https://simonwillison.net/2025/Dec/12/openai-skills/">OpenAI незаметно добавили skills</a> - <em>01:31:37</em>.</li>
-<li><a href="https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/">Fleet ожидаемо не полетел</a> - <em>01:41:57</em>.</li>
-<li><a href="https://radio-t.com/p/2025/12/10/prep-991/">Темы слушателей</a> - <em>02:04:34</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast991.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-991.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast991.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt991.jpg"/>
-		<enclosure length="143356134" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast991.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Использование C для вайб кодинга - 00:37:58. Использование питона для скриптов - 00:50:13. Как правильно депрекейтить - 01:06:21. Gin это какой-то позор - 01:16:01. Выход GPT-5.2 - 01:25:32. OpenAI незаметно добавили ...</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
