@@ -18,6 +18,44 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1012</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+00:39:41 <a href="https://www.anthropic.com/news/higher-limits-spacex">Неожиданный союз Claude и SpaceX</a><br>
+01:01:34 <a href="https://blainsmith.com/articles/just-fucking-use-go/">Просто используй Go</a><br>
+01:19:55 <a href="https://www.thetypicalset.com/blog/thoughts-on-coding-agents">Программирование не было узким местом</a><br>
+01:30:58 <a href="https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/">Вибрационная магия сливается с ИИ программированием</a><br>
+01:56:39 <a href="https://radio-t.com/p/2026/05/06/prep-1012/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1012.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1012.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1012.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1012.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/05/09/podcast-1012/</link>
+		<guid>https://radio-t.com/p/2026/05/09//podcast-1012/</guid>
+		<pubDate>Sat, 09 May 2026 18:06:30 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1012.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://www.anthropic.com/news/higher-limits-spacex">Неожиданный союз Claude и SpaceX</a> - <em>00:39:41</em>.</li>
+<li><a href="https://blainsmith.com/articles/just-fucking-use-go/">Просто используй Go</a> - <em>01:01:34</em>.</li>
+<li><a href="https://www.thetypicalset.com/blog/thoughts-on-coding-agents">Программирование не было узким местом</a> - <em>01:19:55</em>.</li>
+<li><a href="https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/">Вибрационная магия сливается с ИИ программированием</a> - <em>01:30:58</em>.</li>
+<li><a href="https://radio-t.com/p/2026/05/06/prep-1012/">Темы слушателей</a> - <em>01:56:39</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1012.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1012.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1012.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1012.jpg"/>
+		<enclosure length="143349235" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1012.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. Неожиданный союз Claude и SpaceX - 00:39:41. Просто используй Go - 01:01:34. Программирование не было узким местом - 01:19:55. Вибрационная магия сливается с ИИ программированием - 01:30:58. Темы слушателей - 01:56:39...</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1011</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 00:32:51 <a href="https://mitchellh.com/writing/ghostty-leaving-github">Ghostty уходит с GitHub</a><br>
@@ -807,54 +845,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. Радио-Т в 2025 году - 00:13:59. 2025 в разрезе LLM - 00:31:38. exe.dev - странно, сыро, но интересно - 00:44:42. Роб Пайк против AI - 01:22:24. Они обретут разум, а мы не заметим - 01:41:42. Почему надо избегать мини-...</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 992</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:11:29 <a href="https://resources.github.com/actions/2026-pricing-changes-for-github-actions/">Скандал вокруг GitHub Actions</a><br>
-00:34:02 <a href="https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/">Firefox хочет стать браузером с AI</a><br>
-00:45:49 <a href="https://blog.google/products/gemini/gemini-3-flash/">Выход Gemini 3 Flash</a><br>
-00:52:09 <a href="https://openai.com/index/introducing-gpt-5-2-codex/">GPT-5.2-Codex уже сдесь</a><br>
-01:04:38 <a href="https://www.tomshardware.com/tech-industry/cyber-security/north-korean-infiltrator-caught-working-in-amazon-it-department-thanks-to-lag-110ms-keystroke-input-raises-red-flags-over-true-location">Шпион проник в Amazon</a><br>
-01:16:10 <a href="https://developers.openai.com/codex/skills/">Agent Skills и для OpenAI</a><br>
-01:24:18 <a href="https://survey.stackoverflow.co/2025/">Опрос 2025 от Stack Overflow</a><br>
-01:39:43 <a href="https://www.docker.com/blog/docker-hardened-images-for-every-developer/">Docker со знаком качества</a><br>
-01:48:22 <a href="https://restofworld.org/2025/engineering-graduates-ai-job-losses/">AI паника среди джуниоров</a><br>
-01:57:13 <a href="https://radio-t.com/p/2025/12/16/prep-992/">Темы слушателей</a>
-<p><img src="https://radio-t.com/images/radio-t/rt992.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast992.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-992.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast992.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2025/12/20/podcast-992/</link>
-		<guid>https://radio-t.com/p/2025/12/20//podcast-992/</guid>
-		<pubDate>Sat, 20 Dec 2025 16:48:25 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt992.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li><a href="https://resources.github.com/actions/2026-pricing-changes-for-github-actions/">Скандал вокруг GitHub Actions</a> - <em>00:11:29</em>.</li>
-<li><a href="https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/">Firefox хочет стать браузером с AI</a> - <em>00:34:02</em>.</li>
-<li><a href="https://blog.google/products/gemini/gemini-3-flash/">Выход Gemini 3 Flash</a> - <em>00:45:49</em>.</li>
-<li><a href="https://openai.com/index/introducing-gpt-5-2-codex/">GPT-5.2-Codex уже сдесь</a> - <em>00:52:09</em>.</li>
-<li><a href="https://www.tomshardware.com/tech-industry/cyber-security/north-korean-infiltrator-caught-working-in-amazon-it-department-thanks-to-lag-110ms-keystroke-input-raises-red-flags-over-true-location">Шпион проник в Amazon</a> - <em>01:04:38</em>.</li>
-<li><a href="https://developers.openai.com/codex/skills/">Agent Skills и для OpenAI</a> - <em>01:16:10</em>.</li>
-<li><a href="https://survey.stackoverflow.co/2025/">Опрос 2025 от Stack Overflow</a> - <em>01:24:18</em>.</li>
-<li><a href="https://www.docker.com/blog/docker-hardened-images-for-every-developer/">Docker со знаком качества</a> - <em>01:39:43</em>.</li>
-<li><a href="https://restofworld.org/2025/engineering-graduates-ai-job-losses/">AI паника среди джуниоров</a> - <em>01:48:22</em>.</li>
-<li><a href="https://radio-t.com/p/2025/12/16/prep-992/">Темы слушателей</a> - <em>01:57:13</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast992.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-992.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast992.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt992.jpg"/>
-		<enclosure length="132811556" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast992.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Скандал вокруг GitHub Actions - 00:11:29. Firefox хочет стать браузером с AI - 00:34:02. Выход Gemini 3 Flash - 00:45:49. GPT-5.2-Codex уже сдесь - 00:52:09. Шпион проник в Amazon - 01:04:38. Agent Skills и для OpenAI...</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
