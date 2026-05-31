@@ -18,6 +18,48 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1015</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+00:28:07 <a href="https://www.anthropic.com/news/claude-opus-4-8">Claude Opus 4.8</a><br>
+00:58:43 <a href="https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html">Народовольцы против AI</a><br>
+01:10:08 <a href="https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026">Ры6нок труда программистов в 2026</a><br>
+01:22:42 <a href="https://ossresistance.com/">Анархисты за Open Source</a><br>
+01:35:57 <a href="https://github.com/golang/go/issues/77273">Дженерики на методы уже почти в Go</a><br>
+01:45:22 <a href="https://zed.dev/docs/ai/skills">Agent Skills от Zed</a><br>
+01:48:48 <a href="https://radio-t.com/p/2026/05/26/prep-1015/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1015.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1015.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1015.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1015.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/05/30/podcast-1015/</link>
+		<guid>https://radio-t.com/p/2026/05/30//podcast-1015/</guid>
+		<pubDate>Sat, 30 May 2026 18:06:22 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1015.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://www.anthropic.com/news/claude-opus-4-8">Claude Opus 4.8</a> - <em>00:28:07</em>.</li>
+<li><a href="https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html">Народовольцы против AI</a> - <em>00:58:43</em>.</li>
+<li><a href="https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026">Ры6нок труда программистов в 2026</a> - <em>01:10:08</em>.</li>
+<li><a href="https://ossresistance.com/">Анархисты за Open Source</a> - <em>01:22:42</em>.</li>
+<li><a href="https://github.com/golang/go/issues/77273">Дженерики на методы уже почти в Go</a> - <em>01:35:57</em>.</li>
+<li><a href="https://zed.dev/docs/ai/skills">Agent Skills от Zed</a> - <em>01:45:22</em>.</li>
+<li><a href="https://radio-t.com/p/2026/05/26/prep-1015/">Темы слушателей</a> - <em>01:48:48</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1015.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1015.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1015.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1015.jpg"/>
+		<enclosure length="138826156" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1015.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. Claude Opus 4.8 - 00:28:07. Народовольцы против AI - 00:58:43. Ры6нок труда программистов в 2026 - 01:10:08. Анархисты за Open Source - 01:22:42. Дженерики на методы уже почти в Go - 01:35:57. Agent Skills от Zed - 01...</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1014</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 00:30:05 <a href="https://blog.google/products-and-platforms/products/search/search-io-2026/?utm_source=chatgpt.com">Google I/O 2026: еще больше AI везде</a><br>
@@ -803,44 +845,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. Ralph Wiggum для агентов, на практике - 00:09:10. Агент для простых людей - 00:28:17. Впечатления от использования Claude Cowork - 00:34:36. Как сделать из Claude Code что-то, чем можно пользоваться - 00:40:33. Сертиф...</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 995</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:38:16 <a href="https://github.com/anomalyco/opencode/issues/7410">Claude Max обижает конкурентов</a><br>
-01:22:00 <a href="https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/">Stack Overflow совсем заканчивается</a><br>
-01:33:53 <a href="https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957">Как AI убил все доходы tailwind</a><br>
-01:49:15 <a href="https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/">Самые эффективные для токенизации языки</a><br>
-01:55:31 <a href="https://radio-t.com/p/2026/01/09/prep-995/">Темы слушателей</a>
-<p><img src="https://radio-t.com/images/radio-t/rt995.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast995.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-995.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast995.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2026/01/10/podcast-995/</link>
-		<guid>https://radio-t.com/p/2026/01/10//podcast-995/</guid>
-		<pubDate>Sat, 10 Jan 2026 17:16:12 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt995.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li><a href="https://github.com/anomalyco/opencode/issues/7410">Claude Max обижает конкурентов</a> - <em>00:38:16</em>.</li>
-<li><a href="https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/">Stack Overflow совсем заканчивается</a> - <em>01:22:00</em>.</li>
-<li><a href="https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957">Как AI убил все доходы tailwind</a> - <em>01:33:53</em>.</li>
-<li><a href="https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/">Самые эффективные для токенизации языки</a> - <em>01:49:15</em>.</li>
-<li><a href="https://radio-t.com/p/2026/01/09/prep-995/">Темы слушателей</a> - <em>01:55:31</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast995.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-995.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast995.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt995.jpg"/>
-		<enclosure length="156532894" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast995.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Claude Max обижает конкурентов - 00:38:16. Stack Overflow совсем заканчивается - 01:22:00. Как AI убил все доходы tailwind - 01:33:53. Самые эффективные для токенизации языки - 01:49:15. Темы слушателей - 01:55:31.</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
