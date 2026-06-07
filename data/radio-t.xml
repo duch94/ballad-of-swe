@@ -18,6 +18,46 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1016</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+00:37:04 <a href="https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/">Как не надо называть комиты</a><br>
+00:54:21 <a href="https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0">rsync отдался вибрационному программированию</a><br>
+01:02:52 <a href="https://www.mendral.com/blog/you-should-not-update">Не надо обновлять зависимости</a><br>
+01:18:52 <a href="https://blog.plover.com/meta/about-me.html">Программисты готовы документировать для агентов, но не для людей</a><br>
+01:34:15 <a href="https://simonwillison.net/2026/Jun/3/uber-caps-usage/">Uber начал подрезать токены</a><br>
+01:47:51 <a href="https://radio-t.com/p/2026/06/02/prep-1016/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1016.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1016.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1016.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1016.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/06/06/podcast-1016/</link>
+		<guid>https://radio-t.com/p/2026/06/06//podcast-1016/</guid>
+		<pubDate>Sat, 06 Jun 2026 17:28:52 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1016.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/">Как не надо называть комиты</a> - <em>00:37:04</em>.</li>
+<li><a href="https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0">rsync отдался вибрационному программированию</a> - <em>00:54:21</em>.</li>
+<li><a href="https://www.mendral.com/blog/you-should-not-update">Не надо обновлять зависимости</a> - <em>01:02:52</em>.</li>
+<li><a href="https://blog.plover.com/meta/about-me.html">Программисты готовы документировать для агентов, но не для людей</a> - <em>01:18:52</em>.</li>
+<li><a href="https://simonwillison.net/2026/Jun/3/uber-caps-usage/">Uber начал подрезать токены</a> - <em>01:34:15</em>.</li>
+<li><a href="https://radio-t.com/p/2026/06/02/prep-1016/">Темы слушателей</a> - <em>01:47:51</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1016.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1016.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1016.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1016.jpg"/>
+		<enclosure length="132248807" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1016.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. Как не надо называть комиты - 00:37:04. rsync отдался вибрационному программированию - 00:54:21. Не надо обновлять зависимости - 01:02:52. Программисты готовы документировать для агентов, но не для людей - 01:18:52. U...</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1015</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 00:28:07 <a href="https://www.anthropic.com/news/claude-opus-4-8">Claude Opus 4.8</a><br>
@@ -797,54 +837,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. Свежий опрос разработчиков на Go - 00:25:39. Почему взрослые программисты дают проектам умереть - 01:08:03. 30 лет ReactOS - 01:18:50. Десятилетний цикл избавления от программистов - 01:26:07. Пришло время мягкого - 0...</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 996</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:09:10 <a href="https://ghuntley.com/ralph/">Ralph Wiggum для агентов, на практике</a><br>
-00:28:17 <a href="https://claude.com/blog/cowork-research-preview">Агент для простых людей</a><br>
-00:34:36 <a href="https://simonw.substack.com/p/first-impressions-of-claude-cowork">Впечатления от использования Claude Cowork</a><br>
-00:40:33 <a href="https://1code.dev/">Как сделать из Claude Code что-то, чем можно пользоваться</a><br>
-00:44:48 <a href="https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability.html">Сертификаты на адреса и совсем короткие теперь доступны</a><br>
-01:06:14 <a href="https://turso.tech/">Turso - как sqlite, но другая</a><br>
-01:06:51 <a href="https://www.robinlinacre.com/recommend_duckdb/">Зачем нам нужна DuckDB</a><br>
-01:12:50 <a href="https://www.wired.com/story/openai-testing-ads-us/">Ожидание прихода рекламы в ChatGPT</a><br>
-01:32:06 <a href="https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md">Еще раз о том, как все поменялось</a><br>
-01:45:05 <a href="https://radio-t.com/p/2026/01/14/prep-996/">Темы слушателей 996</a>
-<p><img src="https://radio-t.com/images/radio-t/rt996.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast996.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-996.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast996.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2026/01/17/podcast-996/</link>
-		<guid>https://radio-t.com/p/2026/01/17//podcast-996/</guid>
-		<pubDate>Sat, 17 Jan 2026 17:22:13 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt996.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li><a href="https://ghuntley.com/ralph/">Ralph Wiggum для агентов, на практике</a> - <em>00:09:10</em>.</li>
-<li><a href="https://claude.com/blog/cowork-research-preview">Агент для простых людей</a> - <em>00:28:17</em>.</li>
-<li><a href="https://simonw.substack.com/p/first-impressions-of-claude-cowork">Впечатления от использования Claude Cowork</a> - <em>00:34:36</em>.</li>
-<li><a href="https://1code.dev/">Как сделать из Claude Code что-то, чем можно пользоваться</a> - <em>00:40:33</em>.</li>
-<li><a href="https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability.html">Сертификаты на адреса и совсем короткие теперь доступны</a> - <em>00:44:48</em>.</li>
-<li><a href="https://turso.tech/">Turso - как sqlite, но другая</a> - <em>01:06:14</em>.</li>
-<li><a href="https://www.robinlinacre.com/recommend_duckdb/">Зачем нам нужна DuckDB</a> - <em>01:06:51</em>.</li>
-<li><a href="https://www.wired.com/story/openai-testing-ads-us/">Ожидание прихода рекламы в ChatGPT</a> - <em>01:12:50</em>.</li>
-<li><a href="https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md">Еще раз о том, как все поменялось</a> - <em>01:32:06</em>.</li>
-<li><a href="https://radio-t.com/p/2026/01/14/prep-996/">Темы слушателей 996</a> - <em>01:45:05</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast996.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-996.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast996.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt996.jpg"/>
-		<enclosure length="143799092" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast996.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Ralph Wiggum для агентов, на практике - 00:09:10. Агент для простых людей - 00:28:17. Впечатления от использования Claude Cowork - 00:34:36. Как сделать из Claude Code что-то, чем можно пользоваться - 00:40:33. Сертиф...</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
