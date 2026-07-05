@@ -18,6 +18,48 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1020</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+00:37:02 <a href="https://www.anthropic.com/news/claude-sonnet-5">Непонятный Claude Sonnet 5 вышел</a><br>
+00:49:56 <a href="https://www.anthropic.com/news/redeploying-fable-5">Возвращение Fable</a><br>
+00:58:20 <a href="https://buttondown.com/hillelwayne/archive/stroustrups-rule/">Правила Страуструпа</a><br>
+01:22:45 <a href="https://devz.cl/posts/solid-never-felt-solid/">Опять про SOLID и Clean Code</a><br>
+01:41:51 <a href="https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/">Safari MCP</a><br>
+01:47:34 <a href="https://blog.cloudflare.com/agentic-internet-bot-report/">Cloudflare посчитали все</a><br>
+01:54:05 <a href="https://radio-t.com/p/2026/07/01/prep-1020/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1020.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1020.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1020.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1020.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/07/04/podcast-1020/</link>
+		<guid>https://radio-t.com/p/2026/07/04//podcast-1020/</guid>
+		<pubDate>Sat, 04 Jul 2026 17:46:28 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1020.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://www.anthropic.com/news/claude-sonnet-5">Непонятный Claude Sonnet 5 вышел</a> - <em>00:37:02</em>.</li>
+<li><a href="https://www.anthropic.com/news/redeploying-fable-5">Возвращение Fable</a> - <em>00:49:56</em>.</li>
+<li><a href="https://buttondown.com/hillelwayne/archive/stroustrups-rule/">Правила Страуструпа</a> - <em>00:58:20</em>.</li>
+<li><a href="https://devz.cl/posts/solid-never-felt-solid/">Опять про SOLID и Clean Code</a> - <em>01:22:45</em>.</li>
+<li><a href="https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/">Safari MCP</a> - <em>01:41:51</em>.</li>
+<li><a href="https://blog.cloudflare.com/agentic-internet-bot-report/">Cloudflare посчитали все</a> - <em>01:47:34</em>.</li>
+<li><a href="https://radio-t.com/p/2026/07/01/prep-1020/">Темы слушателей</a> - <em>01:54:05</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1020.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1020.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1020.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1020.jpg"/>
+		<enclosure length="128942640" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1020.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. Непонятный Claude Sonnet 5 вышел - 00:37:02. Возвращение Fable - 00:49:56. Правила Страуструпа - 00:58:20. Опять про SOLID и Clean Code - 01:22:45. Safari MCP - 01:41:51. Cloudflare посчитали все - 01:47:34. Темы слуш...</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1019</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 00:26:03 <a href="https://openai.com/index/previewing-gpt-5-6-sol/">GPT-5.6 - семейство мощных моделей, но не для плебса</a><br>
@@ -799,48 +841,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. MongoDB Go Driver v2: миграция, которая не должна была быть такой болезненной - 00:02:58. Sam Altman купил себе Peter Steinberger - 00:50:38. Sonnet 4.6 - 01:07:34. Gemini 3.1 Pro - 01:19:42. Как нам сортировать контр...</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 1000</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:01:01 <a href="https://radio-t.com/1000/">Радио-Т — 1000 выпусков</a><br>
-00:41:06 <a href="https://plannotator.ai/">Plannotator для Claude Code</a><br>
-00:48:21 <a href="https://github.com/tw93/Kaku">Kaku терминал для AI</a><br>
-01:03:21 <a href="https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/">Spotify программисты больше не пишут руками</a><br>
-01:28:56 <a href="https://blog.cloudflare.com/markdown-for-agents/?utm_campaign=cf_blog/">Markdown для агентов</a><br>
-01:45:14 <a href="https://github.com/lucasgelfond/zerobrew">Homebrew но на расте</a><br>
-01:52:33 <a href="https://radio-t.com/p/2026/02/12/prep-1000/">Темы слушателей 1000</a>
-<p><img src="https://radio-t.com/images/radio-t/rt1000.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast1000.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1000.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast1000.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2026/02/14/podcast-1000/</link>
-		<guid>https://radio-t.com/p/2026/02/14//podcast-1000/</guid>
-		<pubDate>Sat, 14 Feb 2026 17:13:47 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1000.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li><a href="https://radio-t.com/1000/">Радио-Т — 1000 выпусков</a> - <em>00:01:01</em>.</li>
-<li><a href="https://plannotator.ai/">Plannotator для Claude Code</a> - <em>00:41:06</em>.</li>
-<li><a href="https://github.com/tw93/Kaku">Kaku терминал для AI</a> - <em>00:48:21</em>.</li>
-<li><a href="https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/">Spotify программисты больше не пишут руками</a> - <em>01:03:21</em>.</li>
-<li><a href="https://blog.cloudflare.com/markdown-for-agents/?utm_campaign=cf_blog/">Markdown для агентов</a> - <em>01:28:56</em>.</li>
-<li><a href="https://github.com/lucasgelfond/zerobrew">Homebrew но на расте</a> - <em>01:45:14</em>.</li>
-<li><a href="https://radio-t.com/p/2026/02/12/prep-1000/">Темы слушателей 1000</a> - <em>01:52:33</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast1000.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1000.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast1000.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt1000.jpg"/>
-		<enclosure length="156599457" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1000.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Радио-Т — 1000 выпусков - 00:01:01. Plannotator для Claude Code - 00:41:06. Kaku терминал для AI - 00:48:21. Spotify программисты больше не пишут руками - 01:03:21. Markdown для агентов - 01:28:56. Homebrew но на раст...</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
