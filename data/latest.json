@@ -1,10 +1,10 @@
 {
-  "episode": 1022,
-  "rss_pub_date": "2026-07-18T18:27:29+00:00",
-  "scheduled_utc": "2026-07-18T20:00:00+00:00",
+  "episode": 1023,
+  "rss_pub_date": "2026-07-25T17:37:39+00:00",
+  "scheduled_utc": "2026-07-25T20:00:00+00:00",
   "target_episode": 1500,
-  "episodes_remaining": 478,
+  "episodes_remaining": 477,
   "target_utc": "2035-09-15T20:00:00+00:00",
-  "updated_at": "2026-07-25T05:28:15.121411+00:00",
+  "updated_at": "2026-07-26T05:45:11.419588+00:00",
   "source_url": "http://feeds.rucast.net/radio-t"
 }
