@@ -18,6 +18,42 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1030</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+00:26:36 <a href="https://mashable.com/tech/apple-event-2026-everything-announced-iphone-18-duo">Apple Event 2026 – при Джобсе такого не было</a><br>
+01:18:14 <a href="https://developers.openai.com/api/docs/guides/agents-api/overview">Agents API от OpenAI</a><br>
+01:53:14 <a href="https://www.engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy/">Математики против OpenAI</a><br>
+02:13:54 <a href="https://radio-t.com/p/2026/09/09/prep-1030/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1030.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1030.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1030.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1030.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/09/12/podcast-1030/</link>
+		<guid>https://radio-t.com/p/2026/09/12//podcast-1030/</guid>
+		<pubDate>Sat, 12 Sep 2026 18:21:23 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1030.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://mashable.com/tech/apple-event-2026-everything-announced-iphone-18-duo">Apple Event 2026 – при Джобсе такого не было</a> - <em>00:26:36</em>.</li>
+<li><a href="https://developers.openai.com/api/docs/guides/agents-api/overview">Agents API от OpenAI</a> - <em>01:18:14</em>.</li>
+<li><a href="https://www.engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy/">Математики против OpenAI</a> - <em>01:53:14</em>.</li>
+<li><a href="https://radio-t.com/p/2026/09/09/prep-1030/">Темы слушателей</a> - <em>02:13:54</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1030.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1030.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1030.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1030.jpg"/>
+		<enclosure length="180064275" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1030.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. Apple Event 2026 – при Джобсе такого не было - 00:26:36. Agents API от OpenAI - 01:18:14. Математики против OpenAI - 01:53:14. Темы слушателей - 02:13:54.</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1029</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 00:16:11 <a href="https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1">Claude Fable 5.1 - что нового</a><br>
@@ -793,48 +829,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. Ghostty уходит с GitHub - 00:32:51. Проблемы с доступностью GitHub - 00:49:21. Как сделать правильный GitHub - 01:06:51. Zig как последний бастион без AI - 01:22:02. Copy Fail - 01:39:57. OpenAI пришли на Amazon Bedro...</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 1010</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:15:00 Проблема тестов в эпоху AI агентов<br>
-00:44:31 <a href="https://dpc.pw/posts/i-dont-want-your-prs-anymore/">Нам не нужны ваши PR</a><br>
-01:00:58 <a href="https://frame.work/fi/en/laptop13pro">Framework Laptop 13 Pro</a><br>
-01:15:31 <a href="https://openai.com/index/introducing-gpt-5-5/">Выход GPT-5.5 | OpenAI</a><br>
-01:33:18 <a href="https://daringfireball.net/2026/04/another_day_has_come">Apple сменяет лидера</a><br>
-01:57:29 <a href="https://www.cnbc.com/amp/2026/04/24/20k-job-cuts-at-meta-microsoft-raise-concern-of-ai-labor-crisis-.html">AI пришел за программистами Meta и Microsoft</a><br>
-02:16:57 <a href="https://radio-t.com/p/2026/04/21/prep-1010/">Темы слушателей</a>
-<p><img src="https://radio-t.com/images/radio-t/rt1010.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast1010.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1010.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast1010.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2026/04/25/podcast-1010/</link>
-		<guid>https://radio-t.com/p/2026/04/25//podcast-1010/</guid>
-		<pubDate>Sat, 25 Apr 2026 18:02:22 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1010.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li>Проблема тестов в эпоху AI агентов - <em>00:15:00</em>.</li>
-<li><a href="https://dpc.pw/posts/i-dont-want-your-prs-anymore/">Нам не нужны ваши PR</a> - <em>00:44:31</em>.</li>
-<li><a href="https://frame.work/fi/en/laptop13pro">Framework Laptop 13 Pro</a> - <em>01:00:58</em>.</li>
-<li><a href="https://openai.com/index/introducing-gpt-5-5/">Выход GPT-5.5 | OpenAI</a> - <em>01:15:31</em>.</li>
-<li><a href="https://daringfireball.net/2026/04/another_day_has_come">Apple сменяет лидера</a> - <em>01:33:18</em>.</li>
-<li><a href="https://www.cnbc.com/amp/2026/04/24/20k-job-cuts-at-meta-microsoft-raise-concern-of-ai-labor-crisis-.html">AI пришел за программистами Meta и Microsoft</a> - <em>01:57:29</em>.</li>
-<li><a href="https://radio-t.com/p/2026/04/21/prep-1010/">Темы слушателей</a> - <em>02:16:57</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast1010.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1010.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast1010.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt1010.jpg"/>
-		<enclosure length="150214725" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1010.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Проблема тестов в эпоху AI агентов - 00:15:00. Нам не нужны ваши PR - 00:44:31. Framework Laptop 13 Pro - 01:00:58. Выход GPT-5.5 | OpenAI - 01:15:31. Apple сменяет лидера - 01:33:18. AI пришел за программистами Meta ...</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
