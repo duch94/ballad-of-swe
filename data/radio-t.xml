@@ -18,6 +18,48 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1031</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+00:11:22 <a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">Jev как System One</a><br>
+00:46:15 <a href="https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/">Выход Java 27 / JDK 27</a><br>
+00:53:59 <a href="https://code.claude.com/docs/en/changelog">Claude Code теперь поддерживает AGENTS.md</a><br>
+01:00:27 <a href="https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOhOmLqR5nN4">Что нам делать против AGI</a><br>
+01:26:05 <a href="https://martinfowler.com/articles/2026-dont-like-llms.html">Почему Фаулер не любит LLMs</a><br>
+01:33:49 <a href="https://liamnugent.me/posts/what-you-dont-build/">Сказать нет или сказать да новым фичам</a><br>
+01:51:38 <a href="https://radio-t.com/p/2026/09/15/prep-1031/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1031.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1031.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1031.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1031.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/09/19/podcast-1031/</link>
+		<guid>https://radio-t.com/p/2026/09/19//podcast-1031/</guid>
+		<pubDate>Sat, 19 Sep 2026 17:34:40 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1031.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">Jev как System One</a> - <em>00:11:22</em>.</li>
+<li><a href="https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/">Выход Java 27 / JDK 27</a> - <em>00:46:15</em>.</li>
+<li><a href="https://code.claude.com/docs/en/changelog">Claude Code теперь поддерживает AGENTS.md</a> - <em>00:53:59</em>.</li>
+<li><a href="https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOhOmLqR5nN4">Что нам делать против AGI</a> - <em>01:00:27</em>.</li>
+<li><a href="https://martinfowler.com/articles/2026-dont-like-llms.html">Почему Фаулер не любит LLMs</a> - <em>01:26:05</em>.</li>
+<li><a href="https://liamnugent.me/posts/what-you-dont-build/">Сказать нет или сказать да новым фичам</a> - <em>01:33:49</em>.</li>
+<li><a href="https://radio-t.com/p/2026/09/15/prep-1031/">Темы слушателей</a> - <em>01:51:38</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1031.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1031.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1031.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1031.jpg"/>
+		<enclosure length="123077492" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1031.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. Jev как System One - 00:11:22. Выход Java 27 / JDK 27 - 00:46:15. Claude Code теперь поддерживает AGENTS.md - 00:53:59. Что нам делать против AGI - 01:00:27. Почему Фаулер не любит LLMs - 01:26:05. Сказать нет или ска...</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1030</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 00:26:36 <a href="https://mashable.com/tech/apple-event-2026-everything-announced-iphone-18-duo">Apple Event 2026 – при Джобсе такого не было</a><br>
@@ -785,50 +827,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. Неожиданный союз Claude и SpaceX - 00:39:41. Просто используй Go - 01:01:34. Программирование не было узким местом - 01:19:55. Вибрационная магия сливается с ИИ программированием - 01:30:58. Темы слушателей - 01:56:39...</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 1011</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:32:51 <a href="https://mitchellh.com/writing/ghostty-leaving-github">Ghostty уходит с GitHub</a><br>
-00:49:21 <a href="https://github.blog/news-insights/company-news/an-update-on-github-availability/">Проблемы с доступностью GitHub</a><br>
-01:06:51 <a href="https://matduggan.com/if-i-could-make-my-own-github/">Как сделать правильный GitHub</a><br>
-01:22:02 <a href="https://simonwillison.net/2026/Apr/30/zig-anti-ai/">Zig как последний бастион без AI</a><br>
-01:39:57 <a href="https://copy.fail/">Copy Fail</a><br>
-01:53:28 <a href="https://aws.amazon.com/bedrock/openai/">OpenAI пришли на Amazon Bedrock</a><br>
-02:00:21 <a href="https://zed.dev/blog/zed-1-0">Zed теперь 1.0</a><br>
-02:06:06 <a href="https://radio-t.com/p/2026/04/29/prep-1011/">Темы слушателей</a>
-<p><img src="https://radio-t.com/images/radio-t/rt1011.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast1011.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1011.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast1011.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2026/05/02/podcast-1011/</link>
-		<guid>https://radio-t.com/p/2026/05/02//podcast-1011/</guid>
-		<pubDate>Sat, 02 May 2026 18:07:14 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1011.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li><a href="https://mitchellh.com/writing/ghostty-leaving-github">Ghostty уходит с GitHub</a> - <em>00:32:51</em>.</li>
-<li><a href="https://github.blog/news-insights/company-news/an-update-on-github-availability/">Проблемы с доступностью GitHub</a> - <em>00:49:21</em>.</li>
-<li><a href="https://matduggan.com/if-i-could-make-my-own-github/">Как сделать правильный GitHub</a> - <em>01:06:51</em>.</li>
-<li><a href="https://simonwillison.net/2026/Apr/30/zig-anti-ai/">Zig как последний бастион без AI</a> - <em>01:22:02</em>.</li>
-<li><a href="https://copy.fail/">Copy Fail</a> - <em>01:39:57</em>.</li>
-<li><a href="https://aws.amazon.com/bedrock/openai/">OpenAI пришли на Amazon Bedrock</a> - <em>01:53:28</em>.</li>
-<li><a href="https://zed.dev/blog/zed-1-0">Zed теперь 1.0</a> - <em>02:00:21</em>.</li>
-<li><a href="https://radio-t.com/p/2026/04/29/prep-1011/">Темы слушателей</a> - <em>02:06:06</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast1011.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1011.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast1011.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt1011.jpg"/>
-		<enclosure length="126908122" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1011.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Ghostty уходит с GitHub - 00:32:51. Проблемы с доступностью GitHub - 00:49:21. Как сделать правильный GitHub - 01:06:51. Zig как последний бастион без AI - 01:22:02. Copy Fail - 01:39:57. OpenAI пришли на Amazon Bedro...</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
