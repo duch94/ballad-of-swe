@@ -22,7 +22,7 @@
 		<description><![CDATA[00:00:00 Вступление<br>
 00:22:21 <a href="https://www.anthropic.com/claude-opus-5-5">Claude Opus 5.5 опять хорош</a><br>
 00:32:49 <a href="https://jyn.dev/tokens-too-cheap-to-meter/">Токены скоро станут очень дешевыми</a><br>
-00:52:04 <a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">Вуход GPT-6 Sol и Luna - все не так радужно</a><br>
+00:52:04 <a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">Выход GPT-6 Sol и Luna — все не так радужно</a><br>
 01:05:12 <a href="https://x.ai/news/grok-4-7">Grok 4.7 тоже вышел</a><br>
 01:09:55 <a href="https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause">OpenAI приостановили создание SkyNet</a><br>
 01:33:22 <a href="https://www.docker.com/products/docker-sandboxes/">Docker Sandboxes для агентов</a><br>
@@ -46,7 +46,7 @@
 <li>Вступление - <em>00:00:00</em>.</li>
 <li><a href="https://www.anthropic.com/claude-opus-5-5">Claude Opus 5.5 опять хорош</a> - <em>00:22:21</em>.</li>
 <li><a href="https://jyn.dev/tokens-too-cheap-to-meter/">Токены скоро станут очень дешевыми</a> - <em>00:32:49</em>.</li>
-<li><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">Вуход GPT-6 Sol и Luna - все не так радужно</a> - <em>00:52:04</em>.</li>
+<li><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">Выход GPT-6 Sol и Luna — все не так радужно</a> - <em>00:52:04</em>.</li>
 <li><a href="https://x.ai/news/grok-4-7">Grok 4.7 тоже вышел</a> - <em>01:05:12</em>.</li>
 <li><a href="https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause">OpenAI приостановили создание SkyNet</a> - <em>01:09:55</em>.</li>
 <li><a href="https://www.docker.com/products/docker-sandboxes/">Docker Sandboxes для агентов</a> - <em>01:33:22</em>.</li>
@@ -62,7 +62,7 @@
 		<enclosure length="134969138" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1032.mp3"/>
 		
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Claude Opus 5.5 опять хорош - 00:22:21. Токены скоро станут очень дешевыми - 00:32:49. Вуход GPT-6 Sol и Luna - все не так радужно - 00:52:04. Grok 4.7 тоже вышел - 01:05:12. OpenAI приостановили создание SkyNet - 01:...</itunes:subtitle>
+		<itunes:subtitle>Вступление - 00:00:00. Claude Opus 5.5 опять хорош - 00:22:21. Токены скоро станут очень дешевыми - 00:32:49. Выход GPT-6 Sol и Luna — все не так радужно - 00:52:04. Grok 4.7 тоже вышел - 01:05:12. OpenAI приостановили создание SkyNet - 01:...</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
 	<item>
