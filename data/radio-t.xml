@@ -18,6 +18,50 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1033</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+00:13:10 <a href="https://openai.com/index/devday-2026-recap/">DevDay от OpenAI</a><br>
+00:23:05 <a href="https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor">OpenAI Dots/Muse</a><br>
+00:38:12 <a href="https://blog.cloudflare.com/clef-decision-models/">Clef: Cloudflare сделали годного Jev</a><br>
+00:49:14 <a href="https://www.anthropic.com/claude-sonnet-5-5">Claude Sonnet 5.5 – все еще непонятно</a><br>
+01:05:02 <a href="https://yedhu.me/posts/commit-description-as-a-thinking-tool/">Вечная дискуссия пор Commit, но в эпоху AI</a><br>
+01:40:32 <a href="https://blog.gitbutler.com/git-3-sha-256">Git 3.0 завезет SHA-256 и сломает мир</a><br>
+01:45:29 <a href="https://iain.rocks/blog/dont-couple-your-go-code-to-github">Привязка Go кода к GitHub</a><br>
+01:53:19 <a href="https://radio-t.com/p/2026/09/29/prep-1033/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1033.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1033.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1033.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1033.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/10/03/podcast-1033/</link>
+		<guid>https://radio-t.com/p/2026/10/03//podcast-1033/</guid>
+		<pubDate>Sat, 03 Oct 2026 17:55:49 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1033.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://openai.com/index/devday-2026-recap/">DevDay от OpenAI</a> - <em>00:13:10</em>.</li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor">OpenAI Dots/Muse</a> - <em>00:23:05</em>.</li>
+<li><a href="https://blog.cloudflare.com/clef-decision-models/">Clef: Cloudflare сделали годного Jev</a> - <em>00:38:12</em>.</li>
+<li><a href="https://www.anthropic.com/claude-sonnet-5-5">Claude Sonnet 5.5 – все еще непонятно</a> - <em>00:49:14</em>.</li>
+<li><a href="https://yedhu.me/posts/commit-description-as-a-thinking-tool/">Вечная дискуссия пор Commit, но в эпоху AI</a> - <em>01:05:02</em>.</li>
+<li><a href="https://blog.gitbutler.com/git-3-sha-256">Git 3.0 завезет SHA-256 и сломает мир</a> - <em>01:40:32</em>.</li>
+<li><a href="https://iain.rocks/blog/dont-couple-your-go-code-to-github">Привязка Go кода к GitHub</a> - <em>01:45:29</em>.</li>
+<li><a href="https://radio-t.com/p/2026/09/29/prep-1033/">Темы слушателей</a> - <em>01:53:19</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1033.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1033.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1033.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1033.jpg"/>
+		<enclosure length="139507548" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1033.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. DevDay от OpenAI - 00:13:10. OpenAI Dots/Muse - 00:23:05. Clef: Cloudflare сделали годного Jev - 00:38:12. Claude Sonnet 5.5 – все еще непонятно - 00:49:14. Вечная дискуссия пор Commit, но в эпоху AI - 01:05:02. Git 3...</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1032</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 00:22:21 <a href="https://www.anthropic.com/claude-opus-5-5">Claude Opus 5.5 опять хорош</a><br>
@@ -797,46 +841,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. Google I/O 2026: еще больше AI везде - 00:30:05. Zed выкрутился, на время - 00:56:02. HTML это новый маркдаун - 01:04:01. Весь набор AI инструментов сливается в синтезе - 01:12:48. Темы слушателей - 01:35:32.</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 1013</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:28:17 <a href="https://support.claude.com/en/articles/15036540-use-the-claude-agent-sdk-with-your-claude-plan">Драконовские меры против Claude Agent SDK и -p</a><br>
-00:51:35 <a href="https://zed.dev/blog/anthropic-subscription-changes">Zed пытается обойти</a><br>
-01:18:04 <a href="https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks">В Amazon все меряют токенами</a><br>
-01:43:38 <a href="https://job-boards.greenhouse.io/anthropic/jobs/5012991008">Anthropic набирает суперменов для заброски в корпорации</a><br>
-01:53:28 <a href="https://github.com/oven-sh/bun/pull/30412">Bun на Rust больше не шутка</a><br>
-02:03:37 <a href="https://radio-t.com/p/2026/05/15/prep-1013/">Темы слушателей</a>
-<p><img src="https://radio-t.com/images/radio-t/rt1013.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast1013.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1013.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast1013.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2026/05/16/podcast-1013/</link>
-		<guid>https://radio-t.com/p/2026/05/16//podcast-1013/</guid>
-		<pubDate>Sat, 16 May 2026 17:44:07 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1013.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li><a href="https://support.claude.com/en/articles/15036540-use-the-claude-agent-sdk-with-your-claude-plan">Драконовские меры против Claude Agent SDK и -p</a> - <em>00:28:17</em>.</li>
-<li><a href="https://zed.dev/blog/anthropic-subscription-changes">Zed пытается обойти</a> - <em>00:51:35</em>.</li>
-<li><a href="https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks">В Amazon все меряют токенами</a> - <em>01:18:04</em>.</li>
-<li><a href="https://job-boards.greenhouse.io/anthropic/jobs/5012991008">Anthropic набирает суперменов для заброски в корпорации</a> - <em>01:43:38</em>.</li>
-<li><a href="https://github.com/oven-sh/bun/pull/30412">Bun на Rust больше не шутка</a> - <em>01:53:28</em>.</li>
-<li><a href="https://radio-t.com/p/2026/05/15/prep-1013/">Темы слушателей</a> - <em>02:03:37</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast1013.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1013.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast1013.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt1013.jpg"/>
-		<enclosure length="136578380" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1013.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Драконовские меры против Claude Agent SDK и -p - 00:28:17. Zed пытается обойти - 00:51:35. В Amazon все меряют токенами - 01:18:04. Anthropic набирает суперменов для заброски в корпорации - 01:43:38. Bun на Rust больш...</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
