@@ -18,6 +18,52 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1035</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+00:28:52 <a href="https://blog.jetbrains.com/idea/2026/10/intellij-idea-s-java-and-kotlin-for-cursor-and-vs-code-hits-1-0/">IntelliJ IDEA теперь и для Cursor / VS Code</a><br>
+00:32:15 <a href="https://blog.jetbrains.com/ai/2026/10/how-netflix-made-ai-coding-agents-more-efficient/">Netflix полюбил JetBrains IDE Intelligence</a><br>
+00:58:47 <a href="https://www.jetbrains.com/air/">JetBrains Air - теперь совсем не то, что было раньше</a><br>
+01:38:32 <a href="https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/">Как компиляторы не покончили с искусством программирования</a><br>
+01:54:50 <a href="https://zachlandes.com/trolley-problem/">Jev для троллейбусных задач</a><br>
+02:02:04 <a href="https://blog.cloudflare.com/clairic-extraction-model/">Clairic - новый подход к извлечению</a><br>
+02:09:20 <a href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/">PHP уязвимость и ее невероятный резонанс</a><br>
+02:16:55 <a href="https://thehackernews.com/2026/10/opencode-console-breach-may-have.html">OpenCode Console взломали</a><br>
+02:20:43 <a href="https://radio-t.com/p/2026/10/20/prep-1035/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1035.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1035.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1035.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1035.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/10/24/podcast-1035/</link>
+		<guid>https://radio-t.com/p/2026/10/24//podcast-1035/</guid>
+		<pubDate>Sat, 24 Oct 2026 18:18:33 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1035.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://blog.jetbrains.com/idea/2026/10/intellij-idea-s-java-and-kotlin-for-cursor-and-vs-code-hits-1-0/">IntelliJ IDEA теперь и для Cursor / VS Code</a> - <em>00:28:52</em>.</li>
+<li><a href="https://blog.jetbrains.com/ai/2026/10/how-netflix-made-ai-coding-agents-more-efficient/">Netflix полюбил JetBrains IDE Intelligence</a> - <em>00:32:15</em>.</li>
+<li><a href="https://www.jetbrains.com/air/">JetBrains Air - теперь совсем не то, что было раньше</a> - <em>00:58:47</em>.</li>
+<li><a href="https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/">Как компиляторы не покончили с искусством программирования</a> - <em>01:38:32</em>.</li>
+<li><a href="https://zachlandes.com/trolley-problem/">Jev для троллейбусных задач</a> - <em>01:54:50</em>.</li>
+<li><a href="https://blog.cloudflare.com/clairic-extraction-model/">Clairic - новый подход к извлечению</a> - <em>02:02:04</em>.</li>
+<li><a href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/">PHP уязвимость и ее невероятный резонанс</a> - <em>02:09:20</em>.</li>
+<li><a href="https://thehackernews.com/2026/10/opencode-console-breach-may-have.html">OpenCode Console взломали</a> - <em>02:16:55</em>.</li>
+<li><a href="https://radio-t.com/p/2026/10/20/prep-1035/">Темы слушателей</a> - <em>02:20:43</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1035.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1035.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1035.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1035.jpg"/>
+		<enclosure length="171735798" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1035.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. IntelliJ IDEA теперь и для Cursor / VS Code - 00:28:52. Netflix полюбил JetBrains IDE Intelligence - 00:32:15. JetBrains Air - теперь совсем не то, что было раньше - 00:58:47. Как компиляторы не покончили с искусством...</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1034</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 00:31:39 <a href="https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/">Apple HomeView и прочие странные новинки</a><br>
@@ -801,48 +847,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. Как не надо называть комиты - 00:37:04. rsync отдался вибрационному программированию - 00:54:21. Не надо обновлять зависимости - 01:02:52. Программисты готовы документировать для агентов, но не для людей - 01:18:52. U...</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 1015</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:28:07 <a href="https://www.anthropic.com/news/claude-opus-4-8">Claude Opus 4.8</a><br>
-00:58:43 <a href="https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html">Народовольцы против AI</a><br>
-01:10:08 <a href="https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026">Рынок труда программистов в 2026</a><br>
-01:22:42 <a href="https://ossresistance.com/">Анархисты за Open Source</a><br>
-01:35:57 <a href="https://github.com/golang/go/issues/77273">Дженерики на методы уже почти в Go</a><br>
-01:45:22 <a href="https://zed.dev/docs/ai/skills">Agent Skills от Zed</a><br>
-01:48:48 <a href="https://radio-t.com/p/2026/05/26/prep-1015/">Темы слушателей</a>
-<p><img src="https://radio-t.com/images/radio-t/rt1015.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast1015.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1015.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast1015.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2026/05/30/podcast-1015/</link>
-		<guid>https://radio-t.com/p/2026/05/30//podcast-1015/</guid>
-		<pubDate>Sat, 30 May 2026 18:06:22 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1015.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li><a href="https://www.anthropic.com/news/claude-opus-4-8">Claude Opus 4.8</a> - <em>00:28:07</em>.</li>
-<li><a href="https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html">Народовольцы против AI</a> - <em>00:58:43</em>.</li>
-<li><a href="https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026">Рынок труда программистов в 2026</a> - <em>01:10:08</em>.</li>
-<li><a href="https://ossresistance.com/">Анархисты за Open Source</a> - <em>01:22:42</em>.</li>
-<li><a href="https://github.com/golang/go/issues/77273">Дженерики на методы уже почти в Go</a> - <em>01:35:57</em>.</li>
-<li><a href="https://zed.dev/docs/ai/skills">Agent Skills от Zed</a> - <em>01:45:22</em>.</li>
-<li><a href="https://radio-t.com/p/2026/05/26/prep-1015/">Темы слушателей</a> - <em>01:48:48</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast1015.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1015.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast1015.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt1015.jpg"/>
-		<enclosure length="138826156" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1015.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Claude Opus 4.8 - 00:28:07. Народовольцы против AI - 00:58:43. Рынок труда программистов в 2026 - 01:10:08. Анархисты за Open Source - 01:22:42. Дженерики на методы уже почти в Go - 01:35:57. Agent Skills от Zed - 01:...</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
