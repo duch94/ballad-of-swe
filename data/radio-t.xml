@@ -18,6 +18,50 @@
 
 	<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets"/></itunes:category><itunes:owner><itunes:email>podcast@radio-t.com</itunes:email><itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name></itunes:owner><item>
+		<title>Радио-Т 1038</title>
+		<description><![CDATA[00:00:00 Вступление<br>
+00:34:09 <a href="https://www.anthropic.com/claude-fable-and-mythos-5-2">Выход Claude Fable 5.2</a><br>
+00:52:59 <a href="https://www.slopmanifesto.com/">No AI Slop: манифест лудитов</a><br>
+01:07:11 <a href="https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html">AWS Emulator</a><br>
+01:11:00 <a href="https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/">GitHub совсем испортил интерфейс PR</a><br>
+01:24:10 <a href="https://developer.apple.com/foundation-models-framework/">Foundation Models framework от Apple</a><br>
+01:31:05 <a href="https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired">Пора увольнять человеческую прокладку</a><br>
+02:09:11 <a href="https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/">Apple выпустит замену LM Studio</a><br>
+02:15:13 <a href="https://radio-t.com/p/2026/11/10/prep-1038/">Темы слушателей</a>
+<p><img src="https://radio-t.com/images/radio-t/rt1038.jpg" alt="" /></p>
+
+
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1038.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1038.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1038.mp3" preload="none"></audio></p>]]></description>
+		<link>https://radio-t.com/p/2026/11/14/podcast-1038/</link>
+		<guid>https://radio-t.com/p/2026/11/14//podcast-1038/</guid>
+		<pubDate>Sat, 14 Nov 2026 17:08:57 UTC</pubDate>
+		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
+		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1038.jpg" alt="" /></p>
+
+<ul>
+<li>Вступление - <em>00:00:00</em>.</li>
+<li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-2">Выход Claude Fable 5.2</a> - <em>00:34:09</em>.</li>
+<li><a href="https://www.slopmanifesto.com/">No AI Slop: манифест лудитов</a> - <em>00:52:59</em>.</li>
+<li><a href="https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html">AWS Emulator</a> - <em>01:07:11</em>.</li>
+<li><a href="https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/">GitHub совсем испортил интерфейс PR</a> - <em>01:11:00</em>.</li>
+<li><a href="https://developer.apple.com/foundation-models-framework/">Foundation Models framework от Apple</a> - <em>01:24:10</em>.</li>
+<li><a href="https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired">Пора увольнять человеческую прокладку</a> - <em>01:31:05</em>.</li>
+<li><a href="https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/">Apple выпустит замену LM Studio</a> - <em>02:09:11</em>.</li>
+<li><a href="https://radio-t.com/p/2026/11/10/prep-1038/">Темы слушателей</a> - <em>02:15:13</em>.</li>
+</ul>
+
+<p><a href="https://cdn.radio-t.com/rt_podcast1038.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1038.html">лог чата</a>
+<audio src="https://cdn.radio-t.com/rt_podcast1038.mp3" preload="none"></audio></p>]]></itunes:summary>
+		<itunes:image href="https://radio-t.com/images/radio-t/rt1038.jpg"/>
+		<enclosure length="163110535" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1038.mp3"/>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Вступление - 00:00:00. Выход Claude Fable 5.2 - 00:34:09. No AI Slop: манифест лудитов - 00:52:59. AWS Emulator - 01:07:11. GitHub совсем испортил интерфейс PR - 01:11:00. Foundation Models framework от Apple - 01:24:10. Пора увольнять чело...</itunes:subtitle>
+		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
+	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
+	<item>
 		<title>Радио-Т 1037</title>
 		<description><![CDATA[00:00:00 Вступление<br>
 00:40:59 <a href="https://sshhole.com/">.sshole наступил</a><br>
@@ -813,46 +857,6 @@
 		
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:subtitle>Вступление - 00:00:00. GPT-5.6 - семейство мощных моделей, но не для плебса - 00:26:03. Anthropic обвиняет Alibaba в экспроприации экспроприаторов - 00:33:50. Akrites - как нам обезопасить open source - 00:39:05. MicroVMs через AWS Lambda -...</itunes:subtitle>
-		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
-	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
-	<item>
-		<title>Радио-Т 1018</title>
-		<description><![CDATA[00:00:00 Вступление<br>
-00:43:09 <a href="https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/">Anthropic передумали забирать -p</a><br>
-00:53:56 <a href="https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063">UK свирепствует, и все для детей</a><br>
-01:36:43 <a href="https://www.jvm-weekly.com/p/project-valhalla-explained-how-a">Выход Valhalla - всего 10 лет работы</a><br>
-01:47:04 <a href="https://arxiv.org/abs/2606.18733?utm_source=chatgpt.com">Новый способ измерения эффективности агентов</a><br>
-01:52:54 <a href="https://www.rfc-editor.org/info/rfc10008/">В HTTP добавят QUERY</a><br>
-01:59:23 <a href="https://radio-t.com/p/2026/06/18/prep-1018/">Темы слушателей</a>
-<p><img src="https://radio-t.com/images/radio-t/rt1018.jpg" alt="" /></p>
-
-
-
-<p><a href="https://cdn.radio-t.com/rt_podcast1018.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1018.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast1018.mp3" preload="none"></audio></p>]]></description>
-		<link>https://radio-t.com/p/2026/06/20/podcast-1018/</link>
-		<guid>https://radio-t.com/p/2026/06/20//podcast-1018/</guid>
-		<pubDate>Sat, 20 Jun 2026 17:52:15 UTC</pubDate>
-		<itunes:author>Umputun, Bobuk, Ksenks, Alek.sys</itunes:author>
-		<itunes:summary><![CDATA[<p><img src="https://radio-t.com/images/radio-t/rt1018.jpg" alt="" /></p>
-
-<ul>
-<li>Вступление - <em>00:00:00</em>.</li>
-<li><a href="https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/">Anthropic передумали забирать -p</a> - <em>00:43:09</em>.</li>
-<li><a href="https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063">UK свирепствует, и все для детей</a> - <em>00:53:56</em>.</li>
-<li><a href="https://www.jvm-weekly.com/p/project-valhalla-explained-how-a">Выход Valhalla - всего 10 лет работы</a> - <em>01:36:43</em>.</li>
-<li><a href="https://arxiv.org/abs/2606.18733?utm_source=chatgpt.com">Новый способ измерения эффективности агентов</a> - <em>01:47:04</em>.</li>
-<li><a href="https://www.rfc-editor.org/info/rfc10008/">В HTTP добавят QUERY</a> - <em>01:52:54</em>.</li>
-<li><a href="https://radio-t.com/p/2026/06/18/prep-1018/">Темы слушателей</a> - <em>01:59:23</em>.</li>
-</ul>
-
-<p><a href="https://cdn.radio-t.com/rt_podcast1018.mp3">аудио</a> • <a href="https://chat.radio-t.com/logs/radio-t-1018.html">лог чата</a>
-<audio src="https://cdn.radio-t.com/rt_podcast1018.mp3" preload="none"></audio></p>]]></itunes:summary>
-		<itunes:image href="https://radio-t.com/images/radio-t/rt1018.jpg"/>
-		<enclosure length="128421059" type="audio/mp3" url="https://cdn.radio-t.com/rt_podcast1018.mp3"/>
-		
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:subtitle>Вступление - 00:00:00. Anthropic передумали забирать -p - 00:43:09. UK свирепствует, и все для детей - 00:53:56. Выход Valhalla - всего 10 лет работы - 01:36:43. Новый способ измерения эффективности агентов - 01:47:04. В HTTP добавят QUERY ...</itunes:subtitle>
 		<itunes:keywords>hitech,russian,radiot,tech,news,радио</itunes:keywords>
 	<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author></item>
   </channel>
